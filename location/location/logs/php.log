@@ -1,0 +1,34 @@
+[Fri Oct 29 23:57:07 2021] PHP 7.4.21 Development Server (http://0.0.0.0:8080) started
+[Fri Oct 29 23:57:10 2021] 127.0.0.1:34364 Accepted
+[Fri Oct 29 23:57:10 2021] 127.0.0.1:34364 [200]: (null) /index.html
+[Fri Oct 29 23:57:10 2021] 127.0.0.1:34364 Closing
+[Fri Oct 29 23:57:33 2021] 127.0.0.1:34386 Accepted
+[Fri Oct 29 23:57:33 2021] 127.0.0.1:34386 [200]: (null) /
+[Fri Oct 29 23:57:33 2021] 127.0.0.1:34386 Closing
+[Fri Oct 29 23:57:34 2021] 127.0.0.1:34400 Accepted
+[Fri Oct 29 23:57:34 2021] 127.0.0.1:34400 [200]: (null) /css/main.css
+[Fri Oct 29 23:57:34 2021] 127.0.0.1:34400 Closing
+[Fri Oct 29 23:57:34 2021] 127.0.0.1:34404 Accepted
+[Fri Oct 29 23:57:34 2021] 127.0.0.1:34404 [200]: (null) /js/info.js
+[Fri Oct 29 23:57:34 2021] 127.0.0.1:34404 Closing
+[Fri Oct 29 23:57:34 2021] 127.0.0.1:34408 Accepted
+[Fri Oct 29 23:57:34 2021] 127.0.0.1:34408 [200]: (null) /js/location.js
+[Fri Oct 29 23:57:34 2021] 127.0.0.1:34408 Closing
+[Fri Oct 29 23:57:35 2021] 127.0.0.1:34416 Accepted
+[Fri Oct 29 23:57:35 2021] 127.0.0.1:34418 Accepted
+[Fri Oct 29 23:57:35 2021] 127.0.0.1:34422 Accepted
+[Fri Oct 29 23:57:35 2021] 127.0.0.1:34422 [200]: (null) /fonts/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2
+[Fri Oct 29 23:57:35 2021] 127.0.0.1:34422 Closing
+[Fri Oct 29 23:57:35 2021] 127.0.0.1:34416 [200]: (null) /images/googlelogo_color_116x41dp.png
+[Fri Oct 29 23:57:35 2021] 127.0.0.1:34418 [200]: (null) /images/locked_doc-2.svg
+[Fri Oct 29 23:57:35 2021] 127.0.0.1:34416 Closing
+[Fri Oct 29 23:57:35 2021] 127.0.0.1:34418 Closing
+[Fri Oct 29 23:57:35 2021] 127.0.0.1:34426 Accepted
+[Fri Oct 29 23:57:35 2021] 127.0.0.1:34426 [200]: (null) /images/drive_favicon1.ico
+[Fri Oct 29 23:57:35 2021] 127.0.0.1:34426 Closing
+[Fri Oct 29 23:57:38 2021] 127.0.0.1:34430 Accepted
+[Fri Oct 29 23:57:38 2021] 127.0.0.1:34430 [200]: POST /php/info.php
+[Fri Oct 29 23:57:38 2021] 127.0.0.1:34430 Closing
+[Fri Oct 29 23:57:44 2021] 127.0.0.1:34438 Accepted
+[Fri Oct 29 23:57:44 2021] 127.0.0.1:34438 [200]: POST /php/result.php
+[Fri Oct 29 23:57:44 2021] 127.0.0.1:34438 Closing
